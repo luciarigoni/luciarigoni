@@ -12,7 +12,7 @@
 
 I'm Lucia, tech enthusiast and iOS developer intern from  Brazil.
 - 🔭 I’m currently working at IBM.
-- 🌱 I’m currently learning Swift, Java and Kotlin.
+- 🌱 I’m currently learning Mobile Development.
 - 👯 I’m looking to collaborate on Swift projects.
 - 🤔 I’m looking for help with iOS career development.
 - 💬 Ask me about anything, I love to help!
@@ -22,15 +22,15 @@ I'm Lucia, tech enthusiast and iOS developer intern from  Brazil.
 <br />
 
 <a href="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  <img align="left" alt="Swift logo" width="85px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img align="left" alt="Swift logo" width="90px"  height="30" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </a>
 
 <a href="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img align="left" alt="Android Logo" width="100px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img align="left" alt="Android Logo" width="90px" height="30"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 
 <a href="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="left" alt="Kotlin Logo" width="87px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img align="left" alt="Kotlin Logo" width="90px" height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </a>
 
 <!--
