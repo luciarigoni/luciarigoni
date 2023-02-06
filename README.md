@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there 👋
 
 <a href="https://www.linkedin.com/in/lucia-rigoni-freire/">
   <img align="left" alt="Lucia's Instagram" width="22px" 
