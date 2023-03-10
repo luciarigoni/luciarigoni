@@ -11,11 +11,11 @@
 <br />
 <br />
 
-I'm Lucia, tech enthusiast and iOS developer intern from  Brazil.
+I'm Lucia, tech enthusiast and software developer intern from  Brazil.
 - 🔭 I’m currently working at IBM.
-- 🌱 I’m currently learning Mobile Development.
-- 👯 I’m looking to collaborate on Swift projects.
-- 🤔 I’m looking for help with iOS career development.
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on new projects.
+- 🤔 I’m looking for help to improve my skills.
 - 💬 Ask me about anything, I love to help!
 - ⚡ Fun fact: I'm currently an Information technology senior student, but I also have a Bachelor in English Literature and Linguistics.
 
