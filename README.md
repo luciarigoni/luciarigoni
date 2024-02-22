@@ -12,8 +12,8 @@
 <br />
 <br />
 
-- 🔭 I’m currently working at IBM.
-- 🌱 I’m currently learning React Native.
+- 🔭 I’m currently working at IBM as a software developer.
+- 🌱 I’m currently improving my React Native and Java skills.
 - 👯 I’m looking to collaborate on new projects.
 - 🤔 I’m looking for help to improve my skills.
 - 💬 Ask me about anything, I love to help!
