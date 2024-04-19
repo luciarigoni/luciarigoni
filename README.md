@@ -12,10 +12,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working at IBM as a software developer.
-- 🌱 I’m currently improving my React Native and Java skills.
-- 👯 I’m looking to collaborate on new projects.
-- 🤔 I’m looking for help to improve my skills.
-- 💬 Ask me about anything, I love to help!
-- ⚡ Fun fact: I'm currently an Information technology senior student, but I also have a Bachelor in English Literature and Linguistics.
+- I’m Software Developer at IBM.
+- React Native and Java.
+- AWS Cloud Practitioner Certified.
 
