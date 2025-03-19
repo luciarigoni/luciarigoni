@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&duration=3000&pause=1000&color=FF1493&background=FF000000&vCenter=true&random=false&width=435&lines=Hi%2C+there!+I'm+L%C3%BAcia.;Full+stack+web+and+app+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7009C&width=435&lines=Hi%2C+there!+I'm+L%C3%BAcia.;Data+Engineer)](https://git.io/typing-svg)
+
+**Let's connect!**
 
 <a href="https://www.linkedin.com/in/lucia-rigoni-freire/">
   <img align="left" alt="Lucia's Instagram" width="22px" 
@@ -12,7 +14,12 @@
 <br />
 <br />
 
-- I’m Software Developer at IBM.
-- React Native and Java.
-- AWS Cloud Practitioner Certified.
+**Analytics Engineer** | **Data Engineer**
+
+**Tech Stack**
+
+- **Analytics & Data Engineering:** Python, SQL, Apache Spark, ETL/ELT, Data Modeling, Power BI
+- **Backend & APIs:** Java, Quarkus, Springboot
+- **Frontend & Mobile:** React Native, JavaScript
+- **Cloud Platforms:** AWS (Certified)
 
